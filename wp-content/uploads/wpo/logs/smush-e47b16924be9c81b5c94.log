@@ -1,0 +1,34 @@
+[2024-06-07 17:53:56 : INFO] - Re_Smush_It_Task server status: Online 
+[2024-06-07 17:53:57 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2024-06-07 17:53:57 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2024-06-07 17:53:57 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2024-06-07 17:53:57 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2024-06-07 17:53:57 : INFO] - Re_Smush_It_Task - Attachment ID : 91, Started on : June 07, 2024 05:53:57 
+[2024-06-07 17:53:57 : INFO] - File: resize1.jpg, Compression quality: 92 
+[2024-06-07 17:54:03 : INFO] - Task with ID 1 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2024-06-07 17:54:03 : INFO] - data: {"src":"http:\/\/hel1.static.resmush.it\/1facfa0276ffa382cb09867ed58d532f\/_src_resize1.jpg","dest":"http:\/\/hel1.static.resmush.it\/1facfa0276ffa382cb09867ed58d532f\/resize1.jpg","src_size":139390,"dest_size":125663,"percent":10,"output":"json","expires":"Fri, 07 Jun 2024 19:59:00 +0200","generator":"reSmush.it rev.3.0.11.20240125"} 
+[2024-06-07 17:54:16 : INFO] - Task with ID 1 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2024-06-07 17:54:16 : INFO] - data: {"src":"http:\/\/fal1.static.resmush.it\/8bdae55c872bb4ab1312fa176b4c2c01\/_src_resize1-300x105.jpg","dest":"http:\/\/fal1.static.resmush.it\/8bdae55c872bb4ab1312fa176b4c2c01\/resize1-300x105.jpg","src_size":10439,"dest_size":9978,"percent":4,"output":"json","expires":"Fri, 07 Jun 2024 19:59:13 +0200","generator":"reSmush.it rev.3.0.11.20240125"} 
+[2024-06-07 17:54:23 : INFO] - Task with ID 1 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2024-06-07 17:54:23 : INFO] - data: {"src":"http:\/\/hel1.static.resmush.it\/9c0ac5ce53e6fe8df58b127b8d85c563\/_src_resize1-1024x359.jpg","dest":"http:\/\/hel1.static.resmush.it\/9c0ac5ce53e6fe8df58b127b8d85c563\/resize1-1024x359.jpg","src_size":69154,"dest_size":66924,"percent":3,"output":"json","expires":"Fri, 07 Jun 2024 19:59:19 +0200","generator":"reSmush.it rev.3.0.11.20240125"} 
+[2024-06-07 17:54:36 : INFO] - Task with ID 1 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2024-06-07 17:54:36 : INFO] - data: {"src":"http:\/\/hel2.static.resmush.it\/c787d9ee165c31cb39bceffb8dfc34a7\/_src_resize1-768x269.jpg","dest":"http:\/\/hel2.static.resmush.it\/c787d9ee165c31cb39bceffb8dfc34a7\/resize1-768x269.jpg","src_size":44572,"dest_size":42939,"percent":4,"output":"json","expires":"Fri, 07 Jun 2024 19:59:33 +0200","generator":"reSmush.it rev.3.0.11.20240125"} 
+[2024-06-07 17:54:42 : INFO] - Task with ID 1 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2024-06-07 17:54:42 : INFO] - data: {"src":"http:\/\/hel2.static.resmush.it\/b5c5b1e0b9c304557cb14e23160350db\/_src_resize1-200x200.jpg","dest":"http:\/\/hel2.static.resmush.it\/b5c5b1e0b9c304557cb14e23160350db\/resize1-200x200.jpg","src_size":11438,"dest_size":10980,"percent":4,"output":"json","expires":"Fri, 07 Jun 2024 19:59:39 +0200","generator":"reSmush.it rev.3.0.11.20240125"} 
+[2024-06-07 17:54:57 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2024-06-07 17:54:57 : DEBUG] - Lock option (updraft_lock_smush, wp_options) already existed in the database 
+[2024-06-07 17:54:57 : INFO] - Lock (updraft_lock_smush, wp_options) could not be acquired (it is locked) 
+[2024-06-07 17:54:57 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-06-07 17:55:07 : INFO] - Successfully optimized the image - C:\wamp64\www\conceptplan/wp-content/uploads/2024/06/resize1.jpg.Le fichier a été compressé de 136.12 KB à 136.12 KB, en économisant 0 % à l’aide de WP-Optimize 
+[2024-06-07 17:55:07 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2024-06-07 17:55:07 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2024-06-07 17:55:07 : INFO] - Re_Smush_It_Task - Attachment ID : 92, Started on : June 07, 2024 05:53:57 
+[2024-06-07 17:55:07 : INFO] - File: resize2.jpg, Compression quality: 92 
+[2024-06-07 17:55:08 : INFO] - Backing up the original image - 2024/06/resize2-updraft-pre-smush-original.jpg 
+[2024-06-07 17:55:14 : INFO] - Successfully optimized the image - C:\wamp64\www\conceptplan/wp-content/uploads/2024/06/resize2.jpg.Le fichier a été compressé de 147.68 KB à 131.95 KB, en économisant 10.65 % à l’aide de WP-Optimize 
+[2024-06-07 17:55:14 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2024-06-07 17:55:14 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2024-06-07 17:55:14 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2024-06-07 17:55:14 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-06-07 17:55:14 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2024-06-10 06:48:13 : INFO] - Pruning the smush log file 
